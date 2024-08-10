@@ -1,0 +1,14 @@
+D:\COLLEGE STUDY MATERIAL (B.TECH)\Practical\SEM - 5\Asp.net\Lab Manual\Lab-1\bin\Debug\net8.0\Lab-1.exe
+D:\COLLEGE STUDY MATERIAL (B.TECH)\Practical\SEM - 5\Asp.net\Lab Manual\Lab-1\bin\Debug\net8.0\Lab-1.deps.json
+D:\COLLEGE STUDY MATERIAL (B.TECH)\Practical\SEM - 5\Asp.net\Lab Manual\Lab-1\bin\Debug\net8.0\Lab-1.runtimeconfig.json
+D:\COLLEGE STUDY MATERIAL (B.TECH)\Practical\SEM - 5\Asp.net\Lab Manual\Lab-1\bin\Debug\net8.0\Lab-1.dll
+D:\COLLEGE STUDY MATERIAL (B.TECH)\Practical\SEM - 5\Asp.net\Lab Manual\Lab-1\bin\Debug\net8.0\Lab-1.pdb
+D:\COLLEGE STUDY MATERIAL (B.TECH)\Practical\SEM - 5\Asp.net\Lab Manual\Lab-1\obj\Debug\net8.0\Lab-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\COLLEGE STUDY MATERIAL (B.TECH)\Practical\SEM - 5\Asp.net\Lab Manual\Lab-1\obj\Debug\net8.0\Lab-1.AssemblyInfoInputs.cache
+D:\COLLEGE STUDY MATERIAL (B.TECH)\Practical\SEM - 5\Asp.net\Lab Manual\Lab-1\obj\Debug\net8.0\Lab-1.AssemblyInfo.cs
+D:\COLLEGE STUDY MATERIAL (B.TECH)\Practical\SEM - 5\Asp.net\Lab Manual\Lab-1\obj\Debug\net8.0\Lab-1.csproj.CoreCompileInputs.cache
+D:\COLLEGE STUDY MATERIAL (B.TECH)\Practical\SEM - 5\Asp.net\Lab Manual\Lab-1\obj\Debug\net8.0\Lab-1.dll
+D:\COLLEGE STUDY MATERIAL (B.TECH)\Practical\SEM - 5\Asp.net\Lab Manual\Lab-1\obj\Debug\net8.0\refint\Lab-1.dll
+D:\COLLEGE STUDY MATERIAL (B.TECH)\Practical\SEM - 5\Asp.net\Lab Manual\Lab-1\obj\Debug\net8.0\Lab-1.pdb
+D:\COLLEGE STUDY MATERIAL (B.TECH)\Practical\SEM - 5\Asp.net\Lab Manual\Lab-1\obj\Debug\net8.0\Lab-1.genruntimeconfig.cache
+D:\COLLEGE STUDY MATERIAL (B.TECH)\Practical\SEM - 5\Asp.net\Lab Manual\Lab-1\obj\Debug\net8.0\ref\Lab-1.dll
